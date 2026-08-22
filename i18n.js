@@ -114,6 +114,11 @@ window.SITE_I18N = {
     'project.title': 'اللقي نظرة سريعة علي مشاريعنا',
     'project.1.t': 'المشروع 1',
     'project.1.d': 'اختبار',
+    'project.1.b1': 'اختبار',
+    'project.1.b2': 'اختبار',
+    'project.1.b3': 'اختبار',
+    'project.1.b4': 'اختبار',
+    'project.1.b5': 'اختبار',
 
     'process.kicker': 'خطوات العمل',
     'process.title': 'من مكالمتك إلى تقرير معتمد',
@@ -344,6 +349,11 @@ window.SITE_I18N = {
     'project.title': 'Take Fast Look On Our Project',
     'project.1.t': 'Project 1',
     'project.1.d': 'Temp.',
+    'project.1.b1': 'اختبار',
+    'project.1.b2': 'اختبار',
+    'project.1.b3': 'اختبار',
+    'project.1.b4': 'اختبار',
+    'project.1.b5': 'اختبار',
 
     'process.kicker': 'How it works',
     'process.title': 'From your call to a signed report',
