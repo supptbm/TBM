@@ -110,6 +110,11 @@ window.SITE_I18N = {
     'why.cta.t': 'محتاج معاينة للموقع أولًا؟',
     'why.cta.d': 'نعاين ونقيس ونسلّمك نطاق أعمال مفصّل قبل أي التزام مالي.',
 
+    'project.me': 'مشاريعنا',
+    'project.title': 'اللقي نظرة سريعة علي مشاريعنا',
+    'project.1.t': 'المشروع 1',
+    'project.1.d': 'اختبار',
+
     'process.kicker': 'خطوات العمل',
     'process.title': 'من مكالمتك إلى تقرير معتمد',
     'step.1.t': 'الطلب',
@@ -334,6 +339,11 @@ window.SITE_I18N = {
     'why.5.d': 'Contract clients get a written SLA: 4 hours for critical faults, next working day for routine calls.',
     'why.cta.t': 'Need a site survey first?',
     'why.cta.d': 'We inspect, measure and hand you a detailed scope of work before any financial commitment.',
+
+    'project.me': 'Our Project',
+    'project.title': 'Take Fast Look On Our Project',
+    'project.1.t': 'Project 1',
+    'project.1.d': 'Temp.',
 
     'process.kicker': 'How it works',
     'process.title': 'From your call to a signed report',
