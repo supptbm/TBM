@@ -238,11 +238,20 @@ html[lang='ar'] .kicker { font-family: var(--font-ar); letter-spacing: 0; text-t
 }
 
 .hero__stats {
-  display: flex; flex-wrap: wrap; gap: var(--space-8) var(--space-12);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-8) var(--space-12);
+
   margin-block-start: clamp(var(--space-10), 6vw, var(--space-16));
   padding-block-start: var(--space-6);
+
   border-block-start: 1px solid var(--border);
+
+  width: 100%;
   max-width: 760px;
+
+  margin-inline-start: 0;
+  margin-inline-end: 0;
 }
 .hero__stats dt { font-family: var(--font-mono); font-size: var(--text-xs); color: var(--text-faint); letter-spacing: 0.1em; text-transform: uppercase; }
 html[lang='ar'] .hero__stats dt { font-family: var(--font-ar); letter-spacing: 0; text-transform: none; font-size: var(--text-sm); }
