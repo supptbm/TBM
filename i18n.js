@@ -355,6 +355,13 @@ window.SITE_I18N = {
     'project.1.b4': 'Fire alarm panels, detectors and sounders',
     'project.1.b5': 'Inspection reports for civil defence approvals',
 
+    'project.1.t1': 'Project 2 : College',
+    'project.1.d1': 'Military College',
+    'project.1.d1': 'Implemented the addition of new systems including CCTV and fire alarm, while enhancing the efficiency of existing data outlets and supporting electrical construction works.',
+    'project.1.d2': 'Tasks included installing and integrating new low-current devices and improving system performance with proper trank installations.',
+    'project.1.d3': 'Work also covered electrical panel adjustment, UPS integration and routing large capacity cables with proper tray instllations.',
+
+
     'process.kicker': 'How it works',
     'process.title': 'From your call to a signed report',
     'step.1.t': 'Request',
